@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+.vite/
+.eslintcache
+playwright-report/
+test-results/
+output/playwright/
+*.log
+.env
+.env.*
+!.env.example
+.worktrees/
